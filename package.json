@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "formidable": "^1.2.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mv": "^2.1.1"
   }
 }
